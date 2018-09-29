@@ -41,3 +41,5 @@ endif
 
 # Inherit from the proprietary version
 -include vendor/yu/garlic/BoardConfigVendor.mk
+
+TARGET_PROVIDES_QTI_TELEPHONY_JAR := true
